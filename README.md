@@ -70,7 +70,9 @@ num.partitions=1
 java -jar zb2hnkafka.jar test 192.168.5.210:9092 earliest
 
 --监控consumer group的消费进度
-
 kafka-consumer-groups.sh --bootstrap-server 192.168.5.210:9092 --describe --group test-group
 需要添加--new-consumer 
 kafka-consumer-groups.sh  --new-consumer --bootstrap-server 192.168.5.210:9092 --describe --group test-group
+
+
+spark-学习视频https://pan.baidu.com/s/1dGBoVy5

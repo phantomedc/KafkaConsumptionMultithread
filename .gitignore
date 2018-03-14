@@ -1,0 +1,13 @@
+##############################
+## Folders                  ##
+##############################
+target
+.idea
+##############################
+## Netbeans conf            ##
+##############################
+*.class
+*.MF
+KafkaConsumptionMultithread.iml
+.idea/workspace.xml
+.idea/compiler.xml
